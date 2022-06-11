@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "459758002378",
+    "project_id": "food-dine-app",
+    "storage_bucket": "food-dine-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459758002378:android:66c1cd98d2edc3b81b5433",
+        "android_client_info": {
+          "package_name": "com.example.fooddine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459758002378-p1plvo9egu2rjoh1s5jmls9gl374rqc3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlOqZFW-V5Gh7wJqaXyfEE1ip4qig5DFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459758002378-p1plvo9egu2rjoh1s5jmls9gl374rqc3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
